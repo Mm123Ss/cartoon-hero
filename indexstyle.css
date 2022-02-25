@@ -1,13 +1,27 @@
 body {
 	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 header{
-	background-color: skyblue;
+	background-color: #55A5B3;
 	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
 }
 
 header h1{
 	color: white;
 
+}
+
+
+h1, h2{
+	font-family: 'Amatic SC', cursive;
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid mediumvioletred;
 }
