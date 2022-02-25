@@ -1,8 +1,13 @@
 body {
 	margin: 0;
-
 }
 
 header{
-	background-color: lightskyblue;
+	background-color: skyblue;
+	text-align: center;
+}
+
+header h1{
+	color: white;
+
 }
